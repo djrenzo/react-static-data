@@ -1,1 +1,20 @@
-[{"day": "19", "month": "02", "monthLabel": "Febrero", "year": "2026", "title": "Afterwork del mes", "ctaLabel": "Apuntarse", "ctaHref": "#contacto"}]
+[
+  {
+    "day": "19", 
+    "month": "02", 
+    "monthLabel": "Febrero", 
+    "year": "2026", 
+    "title": "Afterwork del mes", 
+    "ctaLabel": "Apuntarse", 
+    "ctaHref": "#contacto"
+  },
+  {
+    "day": "17", 
+    "month": "03", 
+    "monthLabel": "Marzo", 
+    "year": "2026", 
+    "title": "Afterwork del mes", 
+    "ctaLabel": "Apuntarse", 
+    "ctaHref": "#contacto"
+  },
+]
