@@ -1,1 +1,22 @@
-[{"name": "Nuria Amrani", "when": "Hace 1 mes", "text": "Un lugar perfecto para trabajar, estudiar o simplemente estar un buen rato leyendo y saboreando un delicioso caf\u00e9 que prepara h\u00e1bilmente Romain, siempre atento y amable."}, {"name": "Laura T", "when": "Hace 2 meses", "text": "Excelente lugar para trabajar en el centro de Madrid. El wifi es r\u00e1pido, ambiente c\u00f3modo y silencioso, con luz natural. Buena relaci\u00f3n calidad/precio. \u00a1Recomendado!"}, {"name": "Cezarina Niculae", "when": "Hace 2 meses", "text": "Nos encant\u00f3 hacer co-working aqu\u00ed. El lugar es precioso, el ambiente muy amistoso y el caf\u00e9 riqu\u00edsimo. \u00a1Tienen todos los ingredientes para una experiencia excelente!"}, {"name": "Juan Galpin", "when": "Hace 1 mes", "text": "Espacio de coworking que funciona por horas con caf\u00e9, boller\u00eda y fruta incluidos. 5\u20ac por 1 hora, \u00a1una relaci\u00f3n calidad/precio genial en Chamber\u00ed!"}]
+[
+  {
+    "name": "Nuria Amrani",
+    "when": "Hace 1 mes",
+    "text": "Un lugar perfecto para trabajar, estudiar o simplemente estar un buen rato leyendo y saboreando un delicioso café que prepara hábildmente Romain, siempre atento y amable."
+  },
+  {
+    "name": "Laura T",
+    "when": "Hace 2 meses",
+    "text": "Excelente lugar para trabajar en el centro de Madrid. El wifi es rápido, ambiente cómodo y silencioso, con luz natural. Buena relación calidad/precio. ¡Recomendado!"
+  },
+  {
+    "name": "Cezarina Niculae",
+    "when": "Hace 2 meses",
+    "text": "Nos encantó hacer co-working aquí. El lugar es precioso, el ambiente muy amistoso y el café riquísimo. ¡Tienen todos los ingredientes para una experiencia excelente!"
+  },
+  {
+    "name": "Juan Galpin",
+    "when": "Hace 1 mes",
+    "text": "Espacio de coworking que funciona por horas con café, bollería y fruta incluidos. 5€ por 1 hora, ¡una relación calidad/precio genial en Chamberí!"
+  }
+]

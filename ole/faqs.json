@@ -1,1 +1,22 @@
-[{"q": "\u00bfEs necesario reservar para venir a trabajar?", "a": "Aunque las reservas no son obligatorias, te recomendamos hacerlo para asegurar tu lugar, especialmente en las horas punta. Sin embargo, \u00a1si est\u00e1s cerca, no dudes en venir espont\u00e1neamente!"}, {"q": "\u00bfPuedo trabajar c\u00f3modamente en Caf\u00e9Ol\u00e9!?", "a": "\u00a1Absolutamente! Caf\u00e9Ol\u00e9! ofrece un entorno propicio para trabajar, ya sea solo, en grupo o durante reuniones informales. Nuestro espacio est\u00e1 dise\u00f1ado con una incre\u00edble luminosidad."}, {"q": "\u00bfPuedo traer comida del exterior?", "a": "\u00a1Claro! Puedes traer comida de fuera y disfrutarla mientras trabajas. Queremos que te sientas como en casa."}, {"q": "\u00bfSe pueden organizar eventos corporativos en Caf\u00e9Ol\u00e9?", "a": "S\u00ed. Cont\u00e1ctanos a trav\u00e9s de nuestro sitio web o por correo: cafeole.clubworking@gmail.com. Estaremos encantados de escuchar tus necesidades."}, {"q": "\u00bfTen\u00e9is despachos privados para equipos?", "a": "S\u00ed, en Caf\u00e9Ol\u00e9 tenemos despachos para equipos de hasta 6 personas. \u00a1Cont\u00e1ctanos para conocer la disponibilidad!"}]
+[
+    {
+        "q": "¿Es necesario reservar para venir a trabajar?", 
+        "a": "Aunque las reservas no son obligatorias, te recomendamos hacerlo para asegurar tu lugar, especialmente en las horas punta. Sin embargo, ¡si estás cerca, no dudes en venir espontáneamente!"
+    }, 
+    {
+        "q": "¿Puedo trabajar cómodamente en CaféOlé!?", 
+        "a": "¡Absolutamente! CaféOlé! ofrece un entorno propicio para trabajar, ya sea solo, en grupo o durante reuniones informales. Nuestro espacio está diseñado con una increíble luminosidad."
+    }, 
+    {
+        "q": "¿Puedo traer comida del exterior?", 
+        "a": "¡Claro! Puedes traer comida de fuera y disfrutarla mientras trabajas. Queremos que te sientas como en casa."
+    }, 
+    {
+        "q": "¿Se pueden organizar eventos corporativos en CaféOlé?", 
+        "a": "Sí. Contáctanos a través de nuestro sitio web o por correo: cafeole.clubworking@gmail.com. Estaremos encantados de escuchar tus necesidades."
+    }, 
+    {
+        "q": "¿Tenéis despachos privados para equipos?", 
+        "a": "Sí, en CaféOlé tenemos despachos para equipos de hasta 6 personas. ¡Contáctanos para conocer la disponibilidad!"
+    }
+]
