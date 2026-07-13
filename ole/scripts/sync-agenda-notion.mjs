@@ -22,8 +22,8 @@ const NOTION_TOKEN = process.env.NOTION_TOKEN;
 const NOTION_DATABASE_ID = process.env.NOTION_DATABASE_ID;
 const NOTION_VERSION = "2022-06-28";
 
-const TITLE_PROPERTY = process.env.NOTION_TITLE_PROPERTY || "title";
-const DATE_PROPERTY = process.env.NOTION_DATE_PROPERTY || "date";
+const TITLE_PROPERTY = process.env.NOTION_TITLE_PROPERTY || "Title";
+const DATE_PROPERTY = process.env.NOTION_DATE_PROPERTY || "Date";
 const LABEL_PROPERTY = process.env.NOTION_LABEL_PROPERTY || "ButtonLabel";
 const URL_PROPERTY = process.env.NOTION_URL_PROPERTY || "URL";
 
