@@ -1,12 +1,12 @@
 [
   {
-    "day": "19",
-    "month": "02",
-    "monthLabel": "Febrero",
+    "day": "18",
+    "month": "05",
+    "monthLabel": "Mayo",
     "year": "2026",
     "title": "Afterwork del mes",
     "ctaLabel": "Apuntarse",
-    "ctaHref": "#contacto"
+    "ctaHref": "https://www.eventbrite.es/e/afterwork-de-mayo-tickets-1328320405089?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
   },
   {
     "day": "17",
@@ -18,12 +18,12 @@
     "ctaHref": "#contacto"
   },
   {
-    "day": "18",
-    "month": "05",
-    "monthLabel": "Mayo",
+    "day": "19",
+    "month": "02",
+    "monthLabel": "Febrero",
     "year": "2026",
     "title": "Afterwork del mes",
     "ctaLabel": "Apuntarse",
-    "ctaHref": "https://www.eventbrite.es/e/afterwork-de-mayo-tickets-1328320405089?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
+    "ctaHref": "#contacto"
   }
 ]
