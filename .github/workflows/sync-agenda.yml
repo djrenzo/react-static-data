@@ -1,0 +1,32 @@
+name: Sync Agenda from Notion
+on:
+  schedule:
+    - cron: '0 6 * * *'   # once a day at 06:00 UTC - adjust as needed
+  workflow_dispatch:        # lets you trigger it manually too
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync agenda from Notion
+        run: node ole/scripts/sync-agenda-notion.mjs
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          OUTPUT_PATH: ole/agenda2.json
+
+      - name: Commit and push agenda2.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ole/agenda2.json
+          git diff --cached --quiet || git commit -m "Sync agenda from Notion [skip ci]"
+          git push
