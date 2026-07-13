@@ -84,7 +84,7 @@ async function queryDatabase() {
   while (hasMore) {
     const body = {
       page_size: 100,
-      sorts: [{ property: DATE_PROPERTY, direction: "ascending" }],
+      sorts: [{ property: DATE_PROPERTY, direction: "descending" }],
     };
     if (cursor) body.start_cursor = cursor;
 
